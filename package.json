@@ -1,7 +1,8 @@
 {
-  "name": "adecco-ccaas-poc",
+  "name": "ag-ccaas-poc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://pablomf89.github.io/ag-ccaas-poc",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
