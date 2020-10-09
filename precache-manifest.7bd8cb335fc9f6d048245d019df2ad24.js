@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e22bebfe5f3c55b6fab20c210134ca63",
+    "revision": "38410cc0edb64463616f80fb8b7eae61",
     "url": "/ag-ccaas-poc/index.html"
   },
   {
