@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38410cc0edb64463616f80fb8b7eae61",
+    "revision": "91dc42489c043b2f6c1530b5de382769",
     "url": "/ag-ccaas-poc/index.html"
   },
   {
-    "revision": "a19c561939175e39a884",
+    "revision": "13a643c23b9fe3b124d1",
     "url": "/ag-ccaas-poc/static/css/main.523f09c5.chunk.css"
   },
   {
-    "revision": "9a4d89cd2f71b401e3ca",
-    "url": "/ag-ccaas-poc/static/js/2.b7a4ff96.chunk.js"
+    "revision": "b95dd55f8d133dec5304",
+    "url": "/ag-ccaas-poc/static/js/2.2f8b1bfe.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/ag-ccaas-poc/static/js/2.b7a4ff96.chunk.js.LICENSE.txt"
+    "url": "/ag-ccaas-poc/static/js/2.2f8b1bfe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a19c561939175e39a884",
-    "url": "/ag-ccaas-poc/static/js/main.70baeec2.chunk.js"
+    "revision": "13a643c23b9fe3b124d1",
+    "url": "/ag-ccaas-poc/static/js/main.aaf48236.chunk.js"
   },
   {
     "revision": "0015f4c88f22cccf79f5",

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ag-ccaas-poc/static/css/main.523f09c5.chunk.css",
-    "main.js": "/ag-ccaas-poc/static/js/main.70baeec2.chunk.js",
-    "main.js.map": "/ag-ccaas-poc/static/js/main.70baeec2.chunk.js.map",
+    "main.js": "/ag-ccaas-poc/static/js/main.aaf48236.chunk.js",
+    "main.js.map": "/ag-ccaas-poc/static/js/main.aaf48236.chunk.js.map",
     "runtime-main.js": "/ag-ccaas-poc/static/js/runtime-main.87ac5386.js",
     "runtime-main.js.map": "/ag-ccaas-poc/static/js/runtime-main.87ac5386.js.map",
-    "static/js/2.b7a4ff96.chunk.js": "/ag-ccaas-poc/static/js/2.b7a4ff96.chunk.js",
-    "static/js/2.b7a4ff96.chunk.js.map": "/ag-ccaas-poc/static/js/2.b7a4ff96.chunk.js.map",
+    "static/js/2.2f8b1bfe.chunk.js": "/ag-ccaas-poc/static/js/2.2f8b1bfe.chunk.js",
+    "static/js/2.2f8b1bfe.chunk.js.map": "/ag-ccaas-poc/static/js/2.2f8b1bfe.chunk.js.map",
     "index.html": "/ag-ccaas-poc/index.html",
-    "precache-manifest.7bd8cb335fc9f6d048245d019df2ad24.js": "/ag-ccaas-poc/precache-manifest.7bd8cb335fc9f6d048245d019df2ad24.js",
+    "precache-manifest.f0c3681b960d05d34389ee49de0a9cfd.js": "/ag-ccaas-poc/precache-manifest.f0c3681b960d05d34389ee49de0a9cfd.js",
     "service-worker.js": "/ag-ccaas-poc/service-worker.js",
     "static/css/main.523f09c5.chunk.css.map": "/ag-ccaas-poc/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.b7a4ff96.chunk.js.LICENSE.txt": "/ag-ccaas-poc/static/js/2.b7a4ff96.chunk.js.LICENSE.txt",
+    "static/js/2.2f8b1bfe.chunk.js.LICENSE.txt": "/ag-ccaas-poc/static/js/2.2f8b1bfe.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ag-ccaas-poc/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.87ac5386.js",
-    "static/js/2.b7a4ff96.chunk.js",
+    "static/js/2.2f8b1bfe.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.70baeec2.chunk.js"
+    "static/js/main.aaf48236.chunk.js"
   ]
 }
